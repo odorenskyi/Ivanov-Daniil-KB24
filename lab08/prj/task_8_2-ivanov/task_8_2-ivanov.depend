@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1744105170 source:f:\bmtp-lab8-ivanov\prj\task_8_2-ivanov\main.cpp
+	<iostream>
+	<iomanip>
+	<locale>
+	"ivanov.h"
+
+1744104877 f:\bmtp-lab8-ivanov\prj\task_8_2-ivanov\ivanov.h
+	<cmath>
+

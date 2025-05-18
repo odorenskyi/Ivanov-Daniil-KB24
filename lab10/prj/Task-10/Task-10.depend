@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1746563667 source:c:\users\danya\desktop\bmtplab10\prj\task-10\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cctype>
+	<bitset>
+	<locale.h>
+

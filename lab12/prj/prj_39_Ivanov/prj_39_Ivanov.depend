@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1749649408 source:f:\ivanov-daniil-kb24\lab12\prj\prj_39_ivanov\classlab12_ivanov.cpp
+	"ClassLab12_Ivanov.h"
+	<iostream>
+	<cmath>
+	<stdexcept>
+
+1749649477 f:\ivanov-daniil-kb24\lab12\prj\prj_39_ivanov\classlab12_ivanov.h
+	<string>
+
+1749649570 source:f:\ivanov-daniil-kb24\lab12\prj\prj_39_ivanov\main.cpp
+	<iostream>
+	"ClassLab12_Ivanov.h"
+

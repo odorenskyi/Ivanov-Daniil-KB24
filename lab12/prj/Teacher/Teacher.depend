@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1749650028 source:f:\ivanov-daniil-kb24\lab12\prj\teacher\main.cpp
+	<iostream>
+	"Teacher.h"
+	"prj_39_Ivanov/ClassLab12_Ivanov.h"
+
+1749649754 f:\ivanov-daniil-kb24\lab12\prj\teacher\teacher.h
+	<string>
+
+1749649477 f:\ivanov-daniil-kb24\lab12\prj\prj_39_ivanov\classlab12_ivanov.h
+	<string>
+

@@ -1,0 +1,19 @@
+Початкові значення:
+ClassLab12_Ivanov object:
+  Radius: 5
+  Color: blue
+  Volume: 523.599
+Введіть новий радіус: 10
+Після зміни радіуса:
+ClassLab12_Ivanov object:
+  Radius: 10
+  Color: blue
+  Volume: 4188.79
+Введіть новий колір: red
+Після зміни кольору:
+ClassLab12_Ivanov object:
+  Radius: 10
+  Color: red
+  Volume: 4188.79
+
+Passed
